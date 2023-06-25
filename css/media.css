@@ -1,0 +1,227 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+/*header start*/
+header {
+    padding: 10px 0;
+}
+.menu ul li a {
+    padding: 5px 0 0 !important;
+    font-size: 20px;
+    text-align: right;
+}
+/*slider start*/
+.slider {
+    padding-bottom: 60px;
+}
+.s_text h1 {
+    font-size: 28px;
+}
+.s_text h2 {
+    margin: 10px 0 15px !important;
+}
+.s_icon ul li i {
+    margin: 20px 25px 0 0;
+    font-size: 32px;
+}
+.c_ind {
+    bottom: -65px;
+}
+/*feature start*/
+.c_padd {
+    padding: 50px 0 70px;
+}
+.c_h1 {
+    margin: 0 0 10px !important;
+    font-size: 25px;
+}
+.c_p {
+    font-size: 17px;
+}
+.f_marr {
+    margin: 30px 0 0;
+}
+.f_icon i {
+    margin: 0 0 5px;
+    font-size: 40px;
+}
+.f_text {
+    text-align: center;
+}
+.f_text h2 {
+    margin-bottom: 5px;
+    font-size: 20px;
+}
+.f_text p {
+    letter-spacing: 0;
+    line-height: 20px;
+}
+/*contact start*/
+.c_form {
+    margin: 25px 0 50px;
+}
+.c_input{
+    margin-bottom: 10px;
+    height: 45px;
+    padding: 10px 15px;
+}
+.c_submit{
+    height: 45px;
+}
+.c_icon ul li {
+    margin-right: 15px !important;
+}
+.c_icon ul li a i {
+    font-size: 32px;
+}
+/*footer start*/
+footer {
+    padding-bottom: 30px;
+}
+.f_1 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+.f_2 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start*/
+.menu ul li a {
+    padding: 5px 0 0 !important;
+    font-size: 20px;
+    text-align: right;
+}
+/*slider start*/
+.slider {
+    padding-bottom: 60px;
+}
+.s_text h2 {
+    margin: 15px 0 20px !important;
+}
+.s_icon ul li i {
+    margin: 25px 30px 0 0;
+    font-size: 40px;
+}
+.c_ind {
+    bottom: -65px;
+}
+/*feature start*/
+.c_padd {
+    padding: 50px 0 70px;
+}
+.c_h1 {
+    margin: 0 0 10px !important;
+    font-size: 25px;
+}
+.c_p {
+    font-size: 17px;
+}
+.f_marr {
+    margin: 30px 0 0;
+}
+.f_icon i {
+    margin: 0 0 5px;
+    font-size: 40px;
+}
+.f_text {
+    text-align: center;
+}
+.f_text h2 {
+    margin-bottom: 5px;
+    font-size: 20px;
+}
+.f_text p {
+    letter-spacing: 0;
+    line-height: 20px;
+}
+
+/*contact start*/
+.c_form {
+    margin: 25px 0 50px;
+}
+.c_input{
+    margin-bottom: 10px;
+    height: 45px;
+    padding: 10px 15px;
+}
+.c_submit{
+    height: 45px;
+}
+.c_icon ul li {
+    margin-right: 25px !important;
+}
+.c_icon ul li a i {
+    font-size: 40px;
+}
+/*footer start*/
+footer {
+    padding-bottom: 70px;
+}
+.f_1 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+.f_2 {
+    text-align: center;
+}
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+.menu ul li a {
+    padding: 10px 0 0 !important;
+    text-align: right;
+}
+/*feature start*/
+.c_padd {
+    padding: 80px 0 100px;
+}
+.f_marr{
+    margin: 50px 0 0;
+}
+/*contact start*/
+.c_form {
+    margin: 30px 0 60px;
+}
+.c_icon ul li {
+    margin-right: 25px !important;
+}
+.c_icon ul li a i {
+    font-size: 40px;
+}
+/*footer start*/
+footer {
+    padding-bottom: 100px;
+}
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
+
+/* Extra large devices (desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+/*header start*/
+.menu ul li a {
+    padding: 0 45px !important;
+}
+
+}
+
+/* Extra Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+/*header start*/
+.menu ul li a {
+    padding: 0 55px !important;
+}
+
+}
